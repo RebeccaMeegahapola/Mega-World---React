@@ -1,0 +1,28 @@
+.itemflex{
+    margin-top: 35px;
+    margin-left: 12px;
+}
+
+.inline{
+    display:inline-block;
+}
+
+.Check{
+    border-radius: 50%;
+    background-color: #f8c92e;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    border: 1px solid #f8c92e;
+}
+
+.line {
+    width: 332px;
+    height: 0;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 17px;
+    display:inline-block;
+}
+
+
+

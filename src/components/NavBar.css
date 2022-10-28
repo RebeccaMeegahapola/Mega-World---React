@@ -1,0 +1,128 @@
+*, *::after, *::before{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 12px;
+    gap: 100px;
+}
+
+.nav_menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+    font-size: 18px;
+    line-height: 1.21;
+    text-transform: uppercase; 
+    position: fixed;  
+    padding-top: 50px;
+    z-index: 1;
+}
+
+.sect01{
+    display: flex;
+    margin-left: 22px;
+}
+
+.icon01{
+    margin: 10px;
+}
+
+.button01{
+    border-radius: 25px;
+    border: 1px solid hsla(0,0%,100%,.3);
+    background-color: inherit;
+    padding: 5px;
+
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+}
+
+.buttonHome{ 
+    color: white;
+}
+
+.button01:hover {
+    color: yellow;
+    border: 1px solid rgb(251, 251, 199);
+}
+
+.Nvideo{
+    font-size: 25px;
+    color: white;
+    background-color: inherit;
+    border: none;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.Nvideo :hover{
+    color: yellow;
+}
+
+.sect02{
+    display: flex;
+    margin-left: 100px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.item01{
+    margin-left: 20px;
+}
+
+.nav_link{
+    text-decoration: none;
+    color: white;
+}
+
+.nav_link_hover:hover{
+    color: yellow;
+}
+
+.nav_link_hover:active{
+    border: 1px solid yellow;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.sect03{
+    margin-left: 120px;
+    display: flex;
+}
+
+.button{
+    border-radius: 10px;
+    border: 1px solid rgb(13, 169, 13);
+    background-color: rgb(13, 169, 13);
+    padding: 10px;
+    width: 101px;
+    height: 50px;
+    font-weight: bold;
+    margin-top: 13px;
+    font-size: 16px;
+    text-align: center; 
+}
+
+.buttonDemo{
+    color: white;
+    text-decoration: none;
+}
+
+.button:hover{
+    background-color: yellow;
+    color: white;
+}
+
+.active-link{
+    color: red;
+}
+

@@ -1,0 +1,118 @@
+.containerF {
+    position: relative;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.imgF{
+    width:100%;
+    margin-top: -5px;
+    height: 650px;
+}
+
+.centeredF {
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Fcont{
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 1.12;
+    margin-top: 2px;
+    margin-bottom: 50px;
+}
+ 
+.centeredF1 {
+    position: absolute;
+    top: 86%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+}
+
+.Fspan{
+    color: #999;
+    font-size: 12px;
+    line-height: 1.12;
+    margin-bottom: 20px;
+}
+
+.Fdiv{
+    border-bottom: 1px solid #999;
+    width: 900px;
+    margin-left: 776px;
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+
+.Fspan1{
+    color: #999;
+    font-size: 12px;
+    line-height: 1.12;
+    margin-left: 73px;
+    text-decoration: underline;
+}
+
+.Fspan1:hover{
+    color: yellow;
+}
+
+.Fspan2{
+    color: #999;
+    font-size: 12px;
+    line-height: 1.12;
+    float: right;
+    text-decoration: underline;
+}
+
+.Fspan2:hover{
+    color: yellow;
+}
+
+.centeredF2 {
+    position: absolute;
+    top: 92%;
+    left: 93%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    float: right;
+    position: fixed;
+}
+
+.twitter{
+    width: 80px;
+    height: 55px;
+    background-color: #1293e4;
+    border: 1px solid #1293e4;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-size: 32px;
+    padding: 5px;
+}
+
+.discord{
+    width: 80px;
+    height: 55px;
+    background-color: #4c59e7;
+    border: 1px solid #4c59e7;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 32px;
+    padding: 5px;
+}
+
+
+
+
+
+

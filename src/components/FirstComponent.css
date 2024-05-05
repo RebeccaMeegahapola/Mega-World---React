@@ -1,0 +1,174 @@
+.head{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+
+.headO{
+    margin-left: 150px;
+    margin-top: 400px;
+    margin-bottom: 70px;
+}
+
+.umbrella{
+    z-index: 1;
+    margin-top: -128px;
+    position: absolute;
+    margin-left: 432px;
+}
+
+.ice{
+    z-index: 1;
+    margin-top: 180px;
+    position: absolute;
+    margin-left: 40px;
+}
+
+.beer{
+    z-index: 1;
+    margin-top: 558px;
+    position: absolute;
+    margin-left: 584px; 
+}
+
+.CompOne{
+    display: flex;
+}
+
+.imageOne{
+    margin-left: 100px;
+    position: relative;
+}
+
+.divOne{
+    margin-left: 80px;
+    margin-top: 147px;
+}
+
+.head1{
+    color: white;
+    font-size: 70px;
+    font-weight: normal;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-left: -7px;
+}
+
+.para1{
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.list{
+    margin-left: 25px;
+}
+
+.listIt{
+    list-style-type: square;
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+}
+
+.para2{
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+}
+
+.headT{
+    float: right;   
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
+.Nails{
+    margin-top: 167px;
+    position: absolute;
+    margin-left: 1200px; 
+}
+
+.Glue{
+    z-index: 1;
+    position: absolute;
+    margin-top: 412px;
+    margin-left: 1290px;  
+}
+
+.Textile{
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 820px;
+}
+
+.CompTwo{
+    display: flex;
+    clear: both;
+}
+
+.div2{
+    margin-top: 210px;
+}
+
+.craft{
+    margin-left: 150px;
+}
+
+.imageTwo{
+    margin-right: 60px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.headTh{
+    margin-bottom: 70px;
+    margin-left: 150px;
+}
+
+.bricks{
+    z-index: 1;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 455px;
+}
+
+.Tool{
+    z-index: 1;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 805px;
+}
+
+.Coin{
+    z-index: 1;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 1290px;
+}
+
+.Coins{
+    z-index: 1;
+    position: absolute;
+    margin-top: 455px;
+    margin-left: 1300px;
+}
+
+.Wallet{
+    z-index: 1;
+    position: absolute;
+    margin-top: 667px;
+    margin-left: 927px;
+}
+
+.imageThree{
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+
+
+
+
+
+

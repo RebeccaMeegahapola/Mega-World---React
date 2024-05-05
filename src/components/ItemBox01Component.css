@@ -1,0 +1,24 @@
+.wrapper{
+    max-height: 300px;
+    display: flex;
+    overflow-x: auto;
+    margin-top: -410px;
+    margin-bottom: 50px;
+}
+  
+.wrapper::-webkit-scrollbar{
+    width: 0;
+}
+  
+.wrapper .item{
+    min-width: 350px;
+    height: 270px;
+    text-align: center;
+    background-color: inherit;
+    border: 1px solid yellow;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+  
+ 

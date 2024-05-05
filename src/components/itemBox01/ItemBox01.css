@@ -1,0 +1,40 @@
+.date {
+    font-size: 18px;
+    color: #f8c92e;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+.flag{
+    color: white;
+    font-size: 22px;
+    margin-top: 6px;
+    margin-right: 10px;
+}
+
+.heading{
+    font-size: 22px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.list1{
+    margin-left: -20px;
+}
+
+.listItem{
+    list-style-type: square;
+    font-size: 24px;
+    color: #f8c92e;
+    text-align: left;
+    margin: 2px; 
+}
+
+.span1{
+    color: white;
+    font-size: 17px;
+    font-weight:600;
+}
+

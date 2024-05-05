@@ -1,0 +1,33 @@
+.wrapper1{
+    max-height: 300px;
+    display: flex;
+    overflow-x: auto;
+  }
+  
+  .wrapper1::-webkit-scrollbar{
+    width: 0;
+  }
+  
+  .wrapper1 .item1{
+    min-width: 400px;
+    text-align: center;
+  }
+  
+  .Check1{
+    border-radius: 50%;
+    background-color: #f8c92e;
+    width: 35px;
+    height: 35px;
+    padding: 5px;
+    border: 1px solid #f8c92e;
+  }
+  
+  .line1 {
+    width: 332px;
+    height: 0;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 17px;
+    display:inline-block;
+  }
+  
+  

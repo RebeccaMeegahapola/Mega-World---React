@@ -1,0 +1,51 @@
+.containerTwo {
+    position: relative;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.imgTwo{
+    width:100%;
+    margin-top: -10px;
+}
+  
+.centeredtwo {
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Bpara{
+    position: absolute;
+    top: 17%;
+    left: 27%;
+    margin-top: 50px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.imgOne{
+    position: absolute;
+    top: 40%;
+    left: 27%;
+}
+
+.imgMan{
+    position: absolute;
+    z-index: 1;
+    top: 36%;
+    left: 45%;
+}
+
+
+
+
+
